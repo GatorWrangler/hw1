@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+.image{
+    background-image: url("kdnix.jpg");
+    height: 300px;
+}
+.description{
+    color: blue;
+    background-color: aqua;
+    padding: 10px;
+}
+a{
+
+    border-radius: 50%;
+    background-color: red;
+    padding: 10px;
+}
+.jumbotron{
+    font-size: 100px;
+    color: Black;
+    background-color: bisque;
+    /* display: inline; */
+}
+.card{
+    background-color: gray;
+    border-color: black;
+    border-width: 2px;
+}
+.ec{
+    /* display: flex; */
+    background-color: rgb(153, 145, 145);
+    padding-left: 10%;
+}
+.Sub{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
